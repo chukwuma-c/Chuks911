@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(13,8,8,0.1);
+}
+
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: linear-gradent(red,blue);
+    -webkit-background-clip: text;
+    -webkit-tect-fill-color: transparent
+    background-color: text;
+    -webkit-text-fill-color; transparent;
+}
+
+.vav-items{
+    display:flex;
+    gap; srem
+}
